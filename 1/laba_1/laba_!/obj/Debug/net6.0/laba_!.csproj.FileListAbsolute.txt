@@ -1,0 +1,15 @@
+D:\структуры данных\laba_!\laba_!\bin\Debug\net6.0\laba_!.exe
+D:\структуры данных\laba_!\laba_!\bin\Debug\net6.0\laba_!.deps.json
+D:\структуры данных\laba_!\laba_!\bin\Debug\net6.0\laba_!.runtimeconfig.json
+D:\структуры данных\laba_!\laba_!\bin\Debug\net6.0\laba_!.dll
+D:\структуры данных\laba_!\laba_!\bin\Debug\net6.0\laba_!.pdb
+D:\структуры данных\laba_!\laba_!\obj\Debug\net6.0\laba_!.csproj.AssemblyReference.cache
+D:\структуры данных\laba_!\laba_!\obj\Debug\net6.0\laba_!.GeneratedMSBuildEditorConfig.editorconfig
+D:\структуры данных\laba_!\laba_!\obj\Debug\net6.0\laba_!.AssemblyInfoInputs.cache
+D:\структуры данных\laba_!\laba_!\obj\Debug\net6.0\laba_!.AssemblyInfo.cs
+D:\структуры данных\laba_!\laba_!\obj\Debug\net6.0\laba_!.csproj.CoreCompileInputs.cache
+D:\структуры данных\laba_!\laba_!\obj\Debug\net6.0\laba_!.dll
+D:\структуры данных\laba_!\laba_!\obj\Debug\net6.0\refint\laba_!.dll
+D:\структуры данных\laba_!\laba_!\obj\Debug\net6.0\laba_!.pdb
+D:\структуры данных\laba_!\laba_!\obj\Debug\net6.0\laba_!.genruntimeconfig.cache
+D:\структуры данных\laba_!\laba_!\obj\Debug\net6.0\ref\laba_!.dll

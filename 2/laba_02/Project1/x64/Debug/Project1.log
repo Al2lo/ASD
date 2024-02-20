@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\структуры данных\2\laba_02\Project1\Source.cpp(6,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Project1.vcxproj -> D:\структуры данных\2\laba_02\x64\Debug\Project1.exe

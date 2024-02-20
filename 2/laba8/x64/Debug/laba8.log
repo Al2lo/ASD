@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\структуры данных\2\laba8\Source.cpp(5,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\структуры данных\2\laba8\Source.cpp(89,18): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+  laba8.vcxproj -> D:\структуры данных\2\laba8\x64\Debug\laba8.exe

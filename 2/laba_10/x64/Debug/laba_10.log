@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\структуры данных\2\laba_10\Source.cpp(68,26): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\структуры данных\2\laba_10\Source.cpp(91,83): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+D:\структуры данных\2\laba_10\Source.cpp(109,30): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  laba_10.vcxproj -> D:\структуры данных\2\laba_10\x64\Debug\laba_10.exe

@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\структуры данных\2\laba_04\Source.cpp(3,1): warning C4005: INFINITY: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math.h(88): message : см. предыдущее определение "INFINITY"
+D:\структуры данных\2\laba_04\Source.cpp(7,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  laba_04.vcxproj -> D:\структуры данных\2\laba_04\x64\Debug\laba_04.exe

@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\структуры данных\2\laba6\Source.cpp(186,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  laba6.vcxproj -> D:\структуры данных\2\laba6\x64\Debug\laba6.exe
